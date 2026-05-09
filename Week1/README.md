@@ -12,5 +12,5 @@ Learn Python basics and perform data exploration and cleaning using Pandas.
 - Saved cleaned dataset
 
 ## Files
-- Week1_CEI_Assignment.ipynb
-- cleaned_tshirts.csv
+- Updated_Week1_CEI_Assignment.ipynb
+- cleaned_Combined_dataset.csv
