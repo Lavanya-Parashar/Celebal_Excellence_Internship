@@ -9,6 +9,7 @@ Data Science / Python / Machine Learning
 ## Contents
 - Week 1: Pandas Data Exploration and Cleaning
 - Week 2: Analyze sales data using SQL with filtering, aggregation, joins, and business queries.
+- Week 3: Advanced SQL Analysis
 - More weekly assignments will be added progressively.
 
 ## Tools & Technologies Used
