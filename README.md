@@ -10,7 +10,8 @@ Data Science / Python / Machine Learning
 - Week 1: Pandas Data Exploration and Cleaning
 - Week 2: Analyze sales data using SQL with filtering, aggregation, joins, and business queries.
 - Week 3: Advanced SQL Analysis
-- Week 4: Azure Fundamentals & Data Pipeline 
+- Week 4: Azure Fundamentals & Data Pipeline
+- Week 5: Apache Spark Data Cleaning and Transformation
 - More weekly assignments will be added progressively.
 
 ## Tools & Technologies Used
