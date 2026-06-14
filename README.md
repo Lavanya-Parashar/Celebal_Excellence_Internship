@@ -12,6 +12,7 @@ Data Science / Python / Machine Learning
 - Week 3: Advanced SQL Analysis
 - Week 4: Azure Fundamentals & Data Pipeline
 - Week 5: Apache Spark Data Cleaning and Transformation
+- Week 6: Spark Architecture and Efficient Data Processing
 - More weekly assignments will be added progressively.
 
 ## Tools & Technologies Used
