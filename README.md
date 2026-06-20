@@ -1,6 +1,4 @@
 # Celebal_Excellence_Internship
-
-
 This repository contains weekly assignments, projects, and tasks completed during my internship at Celebal Technologies.
 
 ## Internship Domain
@@ -13,6 +11,7 @@ Data Science / Python / Machine Learning
 - Week 4: Azure Fundamentals & Data Pipeline
 - Week 5: Apache Spark Data Cleaning and Transformation
 - Week 6: Spark Architecture and Efficient Data Processing
+- week 7: Perform incremental data processing using Delta Lake and demonstrate update and insert operations using the MERGE command.
 - More weekly assignments will be added progressively.
 
 ## Tools & Technologies Used
@@ -21,7 +20,9 @@ Data Science / Python / Machine Learning
 - NumPy
 - Google Colab
 - GitHub
-- Microsoft Azure 
+- Microsoft Azure
+- PySpark
+- Databricks
 
 ## Author
 Lavanya Parashar
