@@ -1,0 +1,8 @@
+DATA CLEANING REPORT
+==============================
+
+NULL customer IDs fixed : 52
+Wrong date formats fixed : 32
+Product names normalized : 24
+Invalid emails found : 8
+Broken order references : 0
