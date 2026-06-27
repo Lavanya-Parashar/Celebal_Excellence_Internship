@@ -12,7 +12,7 @@ Data Science / Python / Machine Learning
 - Week 5: Apache Spark Data Cleaning and Transformation
 - Week 6: Spark Architecture and Efficient Data Processing
 - week 7: Perform incremental data processing using Delta Lake and demonstrate update and insert operations using the MERGE command.
-- More weekly assignments will be added progressively.
+- Week 8: Minor Project : This project is a mini data analytics pipeline developed using Python and SQLite. It simulates an e-commerce order processing system by generating synthetic datasets, cleaning and validating the data, loading it into a SQLite database, and performing SQL-based business analytics.
 
 ## Tools & Technologies Used
 - Python
