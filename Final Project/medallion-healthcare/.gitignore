@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+
+ml/model/
+
+*.parquet
+*.joblib
+*.jsonl

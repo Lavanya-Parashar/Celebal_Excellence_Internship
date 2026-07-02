@@ -1,0 +1,25 @@
+severity,alert_type,total_alerts,avg_response_min,median_response_min,max_response_min,sla_met_pct
+Critical,Fever,2397,23.3,23.0,44,9.6
+Critical,High Sepsis Risk,2315,22.8,23.0,44,9.5
+Critical,Hypotension,2260,23.0,23.0,44,8.7
+Critical,Hypoxia,2385,22.9,23.0,44,8.2
+Critical,Tachycardia,2254,22.8,23.0,44,9.3
+Critical,Tachypnea,2355,22.7,23.0,44,9.4
+High,Fever,5746,23.1,23.0,44,20.3
+High,High Sepsis Risk,5628,22.8,23.0,44,21.1
+High,Hypotension,5751,23.1,23.0,44,20.4
+High,Hypoxia,5837,22.6,22.0,44,21.9
+High,Tachycardia,5745,23.2,23.0,44,20.7
+High,Tachypnea,5594,22.9,23.0,44,20.8
+Low,Fever,7010,23.1,23.0,44,100.0
+Low,High Sepsis Risk,6949,23.0,23.0,44,100.0
+Low,Hypotension,6991,22.9,23.0,44,100.0
+Low,Hypoxia,6842,23.2,23.0,44,100.0
+Low,Tachycardia,6961,23.0,23.0,44,100.0
+Low,Tachypnea,6982,23.0,23.0,44,100.0
+Medium,Fever,8163,23.0,23.0,44,44.3
+Medium,High Sepsis Risk,8157,22.9,23.0,44,44.6
+Medium,Hypotension,8025,22.8,23.0,44,44.7
+Medium,Hypoxia,8041,23.0,23.0,44,44.1
+Medium,Tachycardia,8105,23.2,23.0,44,43.9
+Medium,Tachypnea,8119,23.2,23.0,44,43.1

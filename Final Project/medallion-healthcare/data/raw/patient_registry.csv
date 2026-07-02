@@ -1,0 +1,51 @@
+patient_id,name,age,gender,ward,admission_date,primary_condition,comorbidity_index,admission_type
+P0000,Patient_P0000,24,M,ICU,2024-12-01 00:00:00,Stroke,2,Elective
+P0001,Patient_P0001,69,M,HDU,2024-12-01 03:00:00,Heart Failure,3,Elective
+P0002,Patient_P0002,41,M,HDU,2024-12-01 06:00:00,COPD Exacerbation,8,ED
+P0003,Patient_P0003,60,F,General,2024-12-01 09:00:00,Pneumonia,5,Transfer
+P0004,Patient_P0004,70,M,General,2024-12-01 12:00:00,Pneumonia,0,Elective
+P0005,Patient_P0005,75,M,Emergency,2024-12-01 15:00:00,Sepsis,2,ED
+P0006,Patient_P0006,85,M,ICU,2024-12-01 18:00:00,Post-Op Monitoring,4,ED
+P0007,Patient_P0007,50,F,HDU,2024-12-01 21:00:00,Heart Failure,8,Elective
+P0008,Patient_P0008,55,F,CCU,2024-12-02 00:00:00,Renal Failure,3,Transfer
+P0009,Patient_P0009,46,F,ICU,2024-12-02 03:00:00,Renal Failure,8,ED
+P0010,Patient_P0010,77,M,General,2024-12-02 06:00:00,Trauma,2,ED
+P0011,Patient_P0011,47,F,Emergency,2024-12-02 09:00:00,Renal Failure,0,ED
+P0012,Patient_P0012,26,F,HDU,2024-12-02 12:00:00,COPD Exacerbation,6,Elective
+P0013,Patient_P0013,33,M,HDU,2024-12-02 15:00:00,Trauma,1,ED
+P0014,Patient_P0014,81,F,HDU,2024-12-02 18:00:00,Pneumonia,2,ED
+P0015,Patient_P0015,49,M,HDU,2024-12-02 21:00:00,COPD Exacerbation,7,Elective
+P0016,Patient_P0016,32,F,General,2024-12-03 00:00:00,Trauma,2,ED
+P0017,Patient_P0017,21,M,ICU,2024-12-03 03:00:00,COPD Exacerbation,1,Elective
+P0018,Patient_P0018,79,F,Emergency,2024-12-03 06:00:00,Sepsis,5,Elective
+P0019,Patient_P0019,31,M,General,2024-12-03 09:00:00,Pneumonia,8,ED
+P0020,Patient_P0020,52,F,General,2024-12-03 12:00:00,Stroke,4,Transfer
+P0021,Patient_P0021,67,M,CCU,2024-12-03 15:00:00,Heart Failure,8,ED
+P0022,Patient_P0022,30,F,ICU,2024-12-03 18:00:00,Pneumonia,7,ED
+P0023,Patient_P0023,83,F,Emergency,2024-12-03 21:00:00,Heart Failure,0,Elective
+P0024,Patient_P0024,73,M,HDU,2024-12-04 00:00:00,Renal Failure,3,ED
+P0025,Patient_P0025,21,F,HDU,2024-12-04 03:00:00,Pneumonia,7,ED
+P0026,Patient_P0026,74,M,General,2024-12-04 06:00:00,COPD Exacerbation,0,Elective
+P0027,Patient_P0027,46,M,Emergency,2024-12-04 09:00:00,Heart Failure,3,ED
+P0028,Patient_P0028,46,M,General,2024-12-04 12:00:00,Post-Op Monitoring,1,Elective
+P0029,Patient_P0029,52,F,General,2024-12-04 15:00:00,Renal Failure,6,Transfer
+P0030,Patient_P0030,32,F,General,2024-12-04 18:00:00,Trauma,5,ED
+P0031,Patient_P0031,51,F,CCU,2024-12-04 21:00:00,Pneumonia,2,Elective
+P0032,Patient_P0032,19,M,ICU,2024-12-05 00:00:00,Heart Failure,0,Transfer
+P0033,Patient_P0033,70,M,General,2024-12-05 03:00:00,Stroke,3,ED
+P0034,Patient_P0034,50,M,Emergency,2024-12-05 06:00:00,Renal Failure,7,ED
+P0035,Patient_P0035,40,M,ICU,2024-12-05 09:00:00,Renal Failure,5,ED
+P0036,Patient_P0036,50,M,Emergency,2024-12-05 12:00:00,Sepsis,3,ED
+P0037,Patient_P0037,45,M,Emergency,2024-12-05 15:00:00,COPD Exacerbation,0,Elective
+P0038,Patient_P0038,68,M,CCU,2024-12-05 18:00:00,Stroke,7,Elective
+P0039,Patient_P0039,55,M,HDU,2024-12-05 21:00:00,Stroke,7,Elective
+P0040,Patient_P0040,52,M,ICU,2024-12-06 00:00:00,Pneumonia,7,ED
+P0041,Patient_P0041,49,M,HDU,2024-12-06 03:00:00,Stroke,4,ED
+P0042,Patient_P0042,83,M,HDU,2024-12-06 06:00:00,Stroke,4,Elective
+P0043,Patient_P0043,33,F,CCU,2024-12-06 09:00:00,Pneumonia,6,Elective
+P0044,Patient_P0044,55,F,ICU,2024-12-06 12:00:00,Trauma,4,ED
+P0045,Patient_P0045,90,F,Emergency,2024-12-06 15:00:00,COPD Exacerbation,7,ED
+P0046,Patient_P0046,35,F,General,2024-12-06 18:00:00,Heart Failure,0,Elective
+P0047,Patient_P0047,49,M,Emergency,2024-12-06 21:00:00,Renal Failure,4,ED
+P0048,Patient_P0048,85,F,HDU,2024-12-07 00:00:00,Renal Failure,8,ED
+P0049,Patient_P0049,53,F,HDU,2024-12-07 03:00:00,Heart Failure,7,ED

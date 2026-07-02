@@ -1,0 +1,7 @@
+patient_id,timestamp,risk_score,risk_flag,heart_rate,spo2_pct,respiratory_rate,systolic_bp,temperature_c,sepsis_risk_score,ews_score,risk_band,ward,name,primary_condition,last_updated,recommended_action,report_date
+P0000,2025-01-03 23:00:00,0.6983,1,90.83,89.3,23.4,138.4,36.74,0.9489,5,High,ICU,Patient_P0000,Stroke,2026-07-01T08:16:23.785171,Urgent Ward Review,2026-07-01
+P0016,2025-01-03 22:00:00,0.6961,1,67.07,88.14,28.6,99.3,37.56,0.6877,8,Critical,General,Patient_P0016,Trauma,2026-07-01T08:16:23.785171,Urgent Ward Review,2026-07-01
+P0003,2025-01-03 21:00:00,0.5123,1,107.86,94.85,15.2,110.5,36.16,0.7101,2,Medium,General,Patient_P0003,Pneumonia,2026-07-01T08:16:23.785171,Increase Monitoring Frequency,2026-07-01
+P0032,2025-01-03 22:00:00,0.4247,1,105.64,96.97,17.9,135.7,36.52,0.8179,2,Medium,ICU,Patient_P0032,Heart Failure,2026-07-01T08:16:23.785171,Increase Monitoring Frequency,2026-07-01
+P0035,2025-01-03 23:00:00,0.4175,1,94.95,95.52,21.3,117.8,36.3,0.497,0,Low,ICU,Patient_P0035,Renal Failure,2026-07-01T08:16:23.785171,Increase Monitoring Frequency,2026-07-01
+P0042,2025-01-03 23:00:00,0.401,1,108.11,96.48,23.0,99.3,37.31,0.7042,2,Medium,HDU,Patient_P0042,Stroke,2026-07-01T08:16:23.785171,Increase Monitoring Frequency,2026-07-01

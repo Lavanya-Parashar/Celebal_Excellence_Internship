@@ -1,0 +1,55 @@
+{
+  "auc_roc": 0.9442,
+  "average_precision": 0.6294,
+  "f1_score": 0.495,
+  "precision": 0.3606,
+  "recall": 0.7893,
+  "cv_auc_mean": 0.9214,
+  "cv_auc_std": 0.0035,
+  "train_rows": 334292,
+  "test_rows": 83574,
+  "n_features": 30,
+  "positive_rate": 0.0541,
+  "confusion_matrix": [
+    [
+      72732,
+      6324
+    ],
+    [
+      952,
+      3566
+    ]
+  ],
+  "feature_columns": [
+    "heart_rate",
+    "respiratory_rate",
+    "spo2_pct",
+    "temperature_c",
+    "systolic_bp",
+    "diastolic_bp",
+    "oxygen_flow",
+    "mobility_score",
+    "nurse_alert",
+    "wbc_count",
+    "lactate",
+    "creatinine",
+    "crp_level",
+    "hemoglobin",
+    "sepsis_risk_score",
+    "age",
+    "comorbidity_index",
+    "hour_from_admission",
+    "shock_index",
+    "spo2_hr_product",
+    "pulse_pressure",
+    "temp_deviation",
+    "flag_low_spo2",
+    "flag_tachy",
+    "flag_hypotension",
+    "flag_tachypnea",
+    "flag_fever",
+    "flag_high_lactate",
+    "flag_high_crp",
+    "organ_dysfunction"
+  ]
+}
